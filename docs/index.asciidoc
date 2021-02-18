@@ -1,0 +1,5 @@
+= GaRtBeat Docs
+
+Welcome to the GaRtBeat documentation.
+
+
